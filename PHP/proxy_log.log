@@ -1,0 +1,844 @@
+
+ 
+01-04-15 04:25:50 | GET detected
+01-04-15 04:25:50 | ips table created!
+01-04-15 04:25:50 | clicks table created!
+01-04-15 04:27:05 | Curl error or no response: couldn't connect to host at services.arcgisonline.com:80
+01-04-15 04:27:05 | Ok to proxy
+01-04-15 04:27:05 | Proxy complete
+ 
+01-04-15 04:42:08 | GET detected
+01-04-15 04:42:12 | Ok to proxy
+01-04-15 04:42:12 | Proxy complete
+ 
+01-04-15 04:43:03 | GET detected
+01-04-15 04:43:03 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:11 | POST detected
+01-04-15 04:44:11 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:11 | POST detected
+01-04-15 04:44:11 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:11 | POST detected
+01-04-15 04:44:11 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:11 | POST detected
+01-04-15 04:44:11 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:32 | GET detected
+01-04-15 04:44:32 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:34 | GET detected
+01-04-15 04:44:34 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:35 | GET detected
+01-04-15 04:44:35 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:35 | GET detected
+01-04-15 04:44:35 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:38 | GET detected
+01-04-15 04:44:38 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:39 | GET detected
+01-04-15 04:44:39 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:40 | GET detected
+01-04-15 04:44:40 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:41 | GET detected
+01-04-15 04:44:41 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:51 | GET detected
+01-04-15 04:44:51 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:55 | GET detected
+01-04-15 04:44:55 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:56 | GET detected
+01-04-15 04:44:56 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:56 | GET detected
+01-04-15 04:44:56 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:56 | GET detected
+01-04-15 04:44:56 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:56 | GET detected
+01-04-15 04:44:56 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:56 | GET detected
+01-04-15 04:44:56 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:57 | GET detected
+01-04-15 04:44:57 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:44:57 | GET detected
+01-04-15 04:44:57 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:47:23 | GET detected
+ 
+01-04-15 04:48:38 | Curl error or no response: couldn't connect to host at services.arcgisonline.com:80
+01-04-15 04:48:38 | Ok to proxy
+01-04-15 04:48:38 | Proxy complete
+01-04-15 04:48:38 | GET detected
+01-04-15 04:48:38 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:50:17 | GET detected
+01-04-15 04:50:17 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:51:54 | GET detected
+01-04-15 04:51:54 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:51:54 | GET detected
+01-04-15 04:51:54 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:51:54 | GET detected
+01-04-15 04:51:54 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:51:54 | GET detected
+01-04-15 04:51:54 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:03 | GET detected
+01-04-15 04:52:03 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:04 | GET detected
+01-04-15 04:52:04 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:05 | GET detected
+01-04-15 04:52:05 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:10 | GET detected
+01-04-15 04:52:10 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:22 | GET detected
+01-04-15 04:52:22 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:24 | GET detected
+01-04-15 04:52:24 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:24 | GET detected
+01-04-15 04:52:24 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:24 | GET detected
+01-04-15 04:52:24 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:52:25 | GET detected
+01-04-15 04:52:25 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/solve.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 04:56:32 | GET detected
+01-04-15 04:56:44 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 04:56:44 | Retry attempt 1 of 3
+01-04-15 04:56:44 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 04:58:11 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 04:58:11 | Retry attempt 2 of 3
+01-04-15 04:58:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+01-04-15 05:00:41 | Curl error or no response: couldn't connect to host at route.arcgis.com:80
+01-04-15 05:00:41 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:00:41 | Retry attempt 3 of 3
+01-04-15 05:00:41 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:00:41 | Removing session value
+01-04-15 05:00:44 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:00:44 | Proxy complete
+01-04-15 05:00:44 | POST detected
+01-04-15 05:03:14 | Curl error or no response: couldn't connect to host at route.arcgis.com:80
+01-04-15 05:03:14 | Ok to proxy
+01-04-15 05:03:14 | Proxy complete
+ 
+01-04-15 05:24:55 | GET detected
+ 
+01-04-15 05:25:25 | Curl error or no response: Couldn't resolve host 'services.arcgisonline.com'
+01-04-15 05:25:25 | Ok to proxy
+01-04-15 05:25:25 | Proxy complete
+01-04-15 05:25:25 | GET detected
+01-04-15 05:25:25 | Ok to proxy
+01-04-15 05:25:25 | Proxy complete
+ 
+01-04-15 05:26:19 | GET detected
+01-04-15 05:26:20 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:26:20 | Retry attempt 1 of 3
+01-04-15 05:26:20 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:26:20 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:26:20 | Retry attempt 2 of 3
+01-04-15 05:26:20 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:26:20 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:26:20 | Retry attempt 3 of 3
+01-04-15 05:26:20 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:26:20 | Removing session value
+01-04-15 05:26:20 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:26:20 | Proxy complete
+ 
+01-04-15 05:26:20 | GET detected
+01-04-15 05:26:20 | Ok to proxy
+01-04-15 05:26:20 | Proxy complete
+ 
+01-04-15 05:27:53 | GET detected
+01-04-15 05:27:54 | Ok to proxy
+01-04-15 05:27:54 | Proxy complete
+ 
+01-04-15 05:27:54 | GET detected
+01-04-15 05:27:54 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:27:54 | Retry attempt 1 of 3
+01-04-15 05:27:54 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:27:54 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:27:54 | Retry attempt 2 of 3
+01-04-15 05:27:54 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:27:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:27:55 | Retry attempt 3 of 3
+01-04-15 05:27:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:27:55 | Removing session value
+01-04-15 05:27:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:27:55 | Proxy complete
+ 
+01-04-15 05:27:55 | GET detected
+01-04-15 05:27:55 | Ok to proxy
+01-04-15 05:27:55 | Proxy complete
+ 
+01-04-15 05:27:55 | GET detected
+01-04-15 05:27:55 | Ok to proxy
+01-04-15 05:27:55 | Proxy complete
+ 
+01-04-15 05:28:12 | GET detected
+01-04-15 05:28:13 | Ok to proxy
+01-04-15 05:28:13 | Proxy complete
+ 
+01-04-15 05:28:32 | GET detected
+01-04-15 05:28:32 | Proxy could not resolve requested url - http://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+01-04-15 05:28:54 | GET detected
+01-04-15 05:28:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:28:55 | Retry attempt 1 of 3
+01-04-15 05:28:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:28:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:28:55 | Retry attempt 2 of 3
+01-04-15 05:28:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:28:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:28:55 | Retry attempt 3 of 3
+01-04-15 05:28:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:28:55 | Removing session value
+01-04-15 05:28:55 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:28:55 | Proxy complete
+ 
+01-04-15 05:28:55 | GET detected
+01-04-15 05:28:55 | Ok to proxy
+01-04-15 05:28:55 | Proxy complete
+ 
+01-04-15 05:29:08 | GET detected
+01-04-15 05:29:08 | Ok to proxy
+01-04-15 05:29:08 | Proxy complete
+ 
+01-04-15 05:29:08 | GET detected
+01-04-15 05:29:08 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:29:08 | Retry attempt 1 of 3
+01-04-15 05:29:08 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:29:08 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:29:08 | Retry attempt 2 of 3
+01-04-15 05:29:08 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:29:09 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:29:09 | Retry attempt 3 of 3
+01-04-15 05:29:09 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:29:09 | Removing session value
+01-04-15 05:29:09 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:29:09 | Proxy complete
+ 
+01-04-15 05:29:09 | GET detected
+01-04-15 05:29:09 | Ok to proxy
+01-04-15 05:29:09 | Proxy complete
+ 
+01-04-15 05:29:09 | GET detected
+01-04-15 05:29:09 | Ok to proxy
+01-04-15 05:29:09 | Proxy complete
+ 
+01-04-15 05:29:12 | GET detected
+01-04-15 05:29:14 | Ok to proxy
+01-04-15 05:29:14 | Proxy complete
+ 
+01-04-15 05:36:38 | GET detected
+01-04-15 05:36:38 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:38 | Retry attempt 1 of 3
+01-04-15 05:36:38 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:39 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:39 | Retry attempt 2 of 3
+01-04-15 05:36:39 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:39 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:39 | Retry attempt 3 of 3
+01-04-15 05:36:39 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:39 | Removing session value
+01-04-15 05:36:39 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:39 | Proxy complete
+ 
+01-04-15 05:36:39 | GET detected
+01-04-15 05:36:39 | Ok to proxy
+01-04-15 05:36:39 | Proxy complete
+ 
+01-04-15 05:36:47 | GET detected
+01-04-15 05:36:47 | Ok to proxy
+01-04-15 05:36:47 | Proxy complete
+ 
+01-04-15 05:36:47 | GET detected
+01-04-15 05:36:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:48 | Retry attempt 1 of 3
+01-04-15 05:36:48 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:48 | Retry attempt 2 of 3
+01-04-15 05:36:48 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:48 | Retry attempt 3 of 3
+01-04-15 05:36:48 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 05:36:48 | Removing session value
+01-04-15 05:36:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 05:36:48 | Proxy complete
+ 
+01-04-15 05:36:48 | GET detected
+01-04-15 05:36:48 | Ok to proxy
+01-04-15 05:36:48 | Proxy complete
+ 
+01-04-15 05:36:48 | GET detected
+01-04-15 05:36:49 | Ok to proxy
+01-04-15 05:36:49 | Proxy complete
+ 
+01-04-15 05:36:51 | GET detected
+01-04-15 05:36:52 | Ok to proxy
+01-04-15 05:36:52 | Proxy complete
+ 
+01-04-15 08:18:11 | GET detected
+01-04-15 08:18:11 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:11 | Retry attempt 1 of 3
+01-04-15 08:18:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:11 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:11 | Retry attempt 2 of 3
+01-04-15 08:18:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:12 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:12 | Retry attempt 3 of 3
+01-04-15 08:18:12 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:12 | Removing session value
+01-04-15 08:18:12 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:12 | Proxy complete
+ 
+01-04-15 08:18:12 | GET detected
+01-04-15 08:18:12 | Ok to proxy
+01-04-15 08:18:12 | Proxy complete
+ 
+01-04-15 08:18:19 | GET detected
+01-04-15 08:18:20 | Ok to proxy
+01-04-15 08:18:20 | Proxy complete
+ 
+01-04-15 08:18:20 | GET detected
+01-04-15 08:18:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:21 | Retry attempt 1 of 3
+01-04-15 08:18:21 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:21 | Retry attempt 2 of 3
+01-04-15 08:18:21 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:21 | Retry attempt 3 of 3
+01-04-15 08:18:21 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:18:21 | Removing session value
+01-04-15 08:18:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:18:21 | Proxy complete
+ 
+01-04-15 08:18:21 | GET detected
+01-04-15 08:18:21 | Ok to proxy
+01-04-15 08:18:21 | Proxy complete
+ 
+01-04-15 08:18:21 | GET detected
+01-04-15 08:18:22 | Ok to proxy
+01-04-15 08:18:22 | Proxy complete
+ 
+01-04-15 08:18:30 | GET detected
+01-04-15 08:18:30 | Ok to proxy
+01-04-15 08:18:30 | Proxy complete
+ 
+01-04-15 08:18:52 | GET detected
+01-04-15 08:18:52 | Ok to proxy
+01-04-15 08:18:52 | Proxy complete
+ 
+01-04-15 08:18:56 | GET detected
+01-04-15 08:18:56 | Ok to proxy
+01-04-15 08:18:56 | Proxy complete
+ 
+01-04-15 08:20:47 | GET detected
+01-04-15 08:20:47 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:47 | Retry attempt 1 of 3
+01-04-15 08:20:47 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:47 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:47 | Retry attempt 2 of 3
+01-04-15 08:20:47 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:47 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:47 | Retry attempt 3 of 3
+01-04-15 08:20:47 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:47 | Removing session value
+01-04-15 08:20:47 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:47 | Proxy complete
+ 
+01-04-15 08:20:47 | GET detected
+01-04-15 08:20:48 | Ok to proxy
+01-04-15 08:20:48 | Proxy complete
+ 
+01-04-15 08:20:55 | GET detected
+01-04-15 08:20:56 | Ok to proxy
+01-04-15 08:20:56 | Proxy complete
+ 
+01-04-15 08:20:56 | GET detected
+01-04-15 08:20:56 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:56 | Retry attempt 1 of 3
+01-04-15 08:20:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:56 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:56 | Retry attempt 2 of 3
+01-04-15 08:20:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:57 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:57 | Retry attempt 3 of 3
+01-04-15 08:20:57 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:20:57 | Removing session value
+01-04-15 08:20:57 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:20:57 | Proxy complete
+ 
+01-04-15 08:20:57 | GET detected
+01-04-15 08:20:57 | Ok to proxy
+01-04-15 08:20:57 | Proxy complete
+ 
+01-04-15 08:20:57 | GET detected
+01-04-15 08:20:58 | Ok to proxy
+01-04-15 08:20:58 | Proxy complete
+ 
+01-04-15 08:21:18 | GET detected
+01-04-15 08:21:18 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:18 | Retry attempt 1 of 3
+01-04-15 08:21:18 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:18 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:18 | Retry attempt 2 of 3
+01-04-15 08:21:18 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:19 | Retry attempt 3 of 3
+01-04-15 08:21:19 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:19 | Removing session value
+01-04-15 08:21:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:19 | Proxy complete
+ 
+01-04-15 08:21:19 | GET detected
+01-04-15 08:21:19 | Ok to proxy
+01-04-15 08:21:19 | Proxy complete
+ 
+01-04-15 08:21:25 | GET detected
+01-04-15 08:21:25 | Ok to proxy
+01-04-15 08:21:25 | Proxy complete
+ 
+01-04-15 08:21:25 | GET detected
+01-04-15 08:21:25 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:25 | Retry attempt 1 of 3
+01-04-15 08:21:25 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:25 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:25 | Retry attempt 2 of 3
+01-04-15 08:21:25 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:26 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:26 | Retry attempt 3 of 3
+01-04-15 08:21:26 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:26 | Removing session value
+01-04-15 08:21:26 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:26 | Proxy complete
+ 
+01-04-15 08:21:26 | GET detected
+01-04-15 08:21:26 | Ok to proxy
+01-04-15 08:21:26 | Proxy complete
+ 
+01-04-15 08:21:26 | GET detected
+01-04-15 08:21:26 | Ok to proxy
+01-04-15 08:21:26 | Proxy complete
+ 
+01-04-15 08:21:41 | GET detected
+01-04-15 08:21:42 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:42 | Retry attempt 1 of 3
+01-04-15 08:21:42 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:42 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:42 | Retry attempt 2 of 3
+01-04-15 08:21:42 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:42 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:42 | Retry attempt 3 of 3
+01-04-15 08:21:42 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:42 | Removing session value
+01-04-15 08:21:43 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:43 | Proxy complete
+ 
+01-04-15 08:21:43 | GET detected
+01-04-15 08:21:43 | Ok to proxy
+01-04-15 08:21:43 | Proxy complete
+ 
+01-04-15 08:21:49 | GET detected
+01-04-15 08:21:50 | Ok to proxy
+01-04-15 08:21:50 | Proxy complete
+ 
+01-04-15 08:21:50 | GET detected
+01-04-15 08:21:51 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:51 | Retry attempt 1 of 3
+01-04-15 08:21:51 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:51 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:51 | Retry attempt 2 of 3
+01-04-15 08:21:51 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:58 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:58 | Retry attempt 3 of 3
+01-04-15 08:21:58 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:21:58 | Removing session value
+01-04-15 08:21:58 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:21:58 | Proxy complete
+ 
+01-04-15 08:21:58 | GET detected
+01-04-15 08:21:59 | Ok to proxy
+01-04-15 08:21:59 | Proxy complete
+ 
+01-04-15 08:22:00 | GET detected
+01-04-15 08:22:02 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:02 | Retry attempt 1 of 3
+01-04-15 08:22:02 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:02 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:02 | Retry attempt 2 of 3
+01-04-15 08:22:02 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:03 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:03 | Retry attempt 3 of 3
+01-04-15 08:22:03 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:03 | Removing session value
+01-04-15 08:22:04 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:04 | Proxy complete
+ 
+01-04-15 08:22:04 | GET detected
+01-04-15 08:22:04 | Ok to proxy
+01-04-15 08:22:04 | Proxy complete
+ 
+01-04-15 08:22:15 | GET detected
+ 
+01-04-15 08:22:19 | Ok to proxy
+01-04-15 08:22:19 | Proxy complete
+01-04-15 08:22:19 | GET detected
+01-04-15 08:22:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:19 | Retry attempt 1 of 3
+01-04-15 08:22:19 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:20 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:20 | Retry attempt 2 of 3
+01-04-15 08:22:20 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:21 | Retry attempt 3 of 3
+01-04-15 08:22:21 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:21 | Removing session value
+01-04-15 08:22:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:21 | Proxy complete
+ 
+01-04-15 08:22:21 | GET detected
+01-04-15 08:22:21 | Ok to proxy
+01-04-15 08:22:21 | Proxy complete
+ 
+01-04-15 08:22:27 | GET detected
+01-04-15 08:22:27 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:27 | Retry attempt 1 of 3
+01-04-15 08:22:27 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:27 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:27 | Retry attempt 2 of 3
+01-04-15 08:22:27 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:27 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:27 | Retry attempt 3 of 3
+01-04-15 08:22:27 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:27 | Removing session value
+01-04-15 08:22:28 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:28 | Proxy complete
+ 
+01-04-15 08:22:28 | GET detected
+01-04-15 08:22:28 | Ok to proxy
+01-04-15 08:22:28 | Proxy complete
+ 
+01-04-15 08:22:42 | GET detected
+01-04-15 08:22:43 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:43 | Retry attempt 1 of 3
+01-04-15 08:22:43 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:46 | Retry attempt 2 of 3
+01-04-15 08:22:46 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:48 | Retry attempt 3 of 3
+01-04-15 08:22:48 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:22:48 | Removing session value
+01-04-15 08:22:48 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:22:48 | Proxy complete
+ 
+01-04-15 08:22:48 | GET detected
+01-04-15 08:22:53 | Ok to proxy
+01-04-15 08:22:53 | Proxy complete
+ 
+01-04-15 08:28:58 | GET detected
+01-04-15 08:28:59 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:28:59 | Retry attempt 1 of 3
+01-04-15 08:28:59 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:28:59 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:28:59 | Retry attempt 2 of 3
+01-04-15 08:28:59 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:28:59 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:28:59 | Retry attempt 3 of 3
+01-04-15 08:28:59 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:28:59 | Removing session value
+01-04-15 08:28:59 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:28:59 | Proxy complete
+ 
+01-04-15 08:29:14 | GET detected
+01-04-15 08:29:14 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:29:14 | Retry attempt 1 of 3
+01-04-15 08:29:14 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:14 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:29:14 | Retry attempt 2 of 3
+01-04-15 08:29:14 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:15 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:29:15 | Retry attempt 3 of 3
+01-04-15 08:29:15 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:15 | Removing session value
+01-04-15 08:29:15 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 08:29:15 | Proxy complete
+ 
+01-04-15 08:29:24 | GET detected
+01-04-15 08:29:24 | Ok to proxy
+01-04-15 08:29:24 | Proxy complete
+ 
+01-04-15 08:29:50 | GET detected
+01-04-15 08:29:50 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:29:50 | Retry attempt 1 of 3
+01-04-15 08:29:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:50 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:29:50 | Retry attempt 2 of 3
+01-04-15 08:29:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:50 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:29:50 | Retry attempt 3 of 3
+01-04-15 08:29:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:29:50 | Removing session value
+01-04-15 08:29:50 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:29:50 | Proxy complete
+ 
+01-04-15 08:29:50 | GET detected
+01-04-15 08:29:50 | Ok to proxy
+01-04-15 08:29:50 | Proxy complete
+ 
+01-04-15 08:40:41 | GET detected
+01-04-15 08:40:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:40:46 | Retry attempt 1 of 3
+01-04-15 08:40:46 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:40:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:40:46 | Retry attempt 2 of 3
+01-04-15 08:40:46 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:40:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:40:46 | Retry attempt 3 of 3
+01-04-15 08:40:46 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:40:46 | Removing session value
+01-04-15 08:40:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:40:46 | Proxy complete
+ 
+01-04-15 08:40:46 | GET detected
+01-04-15 08:40:47 | Ok to proxy
+01-04-15 08:40:47 | Proxy complete
+ 
+01-04-15 08:41:32 | GET detected
+01-04-15 08:41:32 | Ok to proxy
+01-04-15 08:41:32 | Proxy complete
+ 
+01-04-15 08:41:32 | GET detected
+01-04-15 08:41:33 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:41:33 | Retry attempt 1 of 3
+01-04-15 08:41:33 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:41:33 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:41:33 | Retry attempt 2 of 3
+01-04-15 08:41:33 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:41:33 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:41:33 | Retry attempt 3 of 3
+01-04-15 08:41:33 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:41:33 | Removing session value
+01-04-15 08:41:34 | Authorization failed : dojo.io.script.jsonp_dojoIoScript3._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:41:34 | Proxy complete
+ 
+01-04-15 08:41:34 | GET detected
+01-04-15 08:41:34 | Ok to proxy
+01-04-15 08:41:34 | Proxy complete
+ 
+01-04-15 08:41:34 | GET detected
+01-04-15 08:41:34 | Ok to proxy
+01-04-15 08:41:34 | Proxy complete
+ 
+01-04-15 08:41:39 | GET detected
+01-04-15 08:41:39 | Ok to proxy
+01-04-15 08:41:39 | Proxy complete
+ 
+01-04-15 08:43:45 | GET detected
+01-04-15 08:43:45 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:43:45 | Retry attempt 1 of 3
+01-04-15 08:43:45 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:43:45 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:43:45 | Retry attempt 2 of 3
+01-04-15 08:43:45 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:43:45 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:43:45 | Retry attempt 3 of 3
+01-04-15 08:43:45 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:43:45 | Removing session value
+01-04-15 08:43:46 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:43:46 | Proxy complete
+ 
+01-04-15 08:43:46 | GET detected
+01-04-15 08:43:46 | Ok to proxy
+01-04-15 08:43:46 | Proxy complete
+ 
+01-04-15 08:48:18 | GET detected
+01-04-15 08:48:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:48:19 | Retry attempt 1 of 3
+01-04-15 08:48:19 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:48:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:48:19 | Retry attempt 2 of 3
+01-04-15 08:48:19 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:48:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:48:19 | Retry attempt 3 of 3
+01-04-15 08:48:19 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 08:48:19 | Removing session value
+01-04-15 08:48:19 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 08:48:19 | Proxy complete
+ 
+01-04-15 08:48:19 | GET detected
+01-04-15 08:48:20 | Ok to proxy
+01-04-15 08:48:20 | Proxy complete
+ 
+01-04-15 09:13:19 | GET detected
+01-04-15 09:13:31 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:13:31 | Retry attempt 1 of 3
+01-04-15 09:13:31 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+01-04-15 09:13:51 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:13:51 | Retry attempt 2 of 3
+01-04-15 09:13:51 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:14:10 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:14:10 | Retry attempt 3 of 3
+01-04-15 09:14:10 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:14:10 | Removing session value
+ 
+ 
+01-04-15 09:16:34 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:16:34 | Proxy complete
+01-04-15 09:16:34 | GET detected
+ 
+01-04-15 09:17:04 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:17:04 | Ok to proxy
+01-04-15 09:17:04 | Proxy complete
+01-04-15 09:17:04 | POST detected
+01-04-15 09:17:16 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:17:16 | Retry attempt 1 of 3
+01-04-15 09:17:16 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:17:27 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:17:27 | Retry attempt 2 of 3
+01-04-15 09:17:27 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+ 
+01-04-15 09:18:53 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:18:53 | Retry attempt 3 of 3
+01-04-15 09:18:53 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:18:53 | Removing session value
+ 
+01-04-15 09:19:30 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:19:30 | Proxy complete
+01-04-15 09:19:30 | POST detected
+01-04-15 09:19:44 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:19:44 | Retry attempt 1 of 3
+01-04-15 09:19:44 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+01-04-15 09:20:04 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:20:04 | Retry attempt 2 of 3
+01-04-15 09:20:04 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:20:04 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:20:04 | Retry attempt 3 of 3
+01-04-15 09:20:04 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:20:04 | Removing session value
+01-04-15 09:21:12 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:21:12 | Proxy complete
+01-04-15 09:21:12 | POST detected
+01-04-15 09:21:42 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:21:42 | Ok to proxy
+01-04-15 09:21:42 | Proxy complete
+01-04-15 09:21:42 | GET detected
+01-04-15 09:22:12 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:22:12 | Ok to proxy
+01-04-15 09:22:12 | Proxy complete
+01-04-15 09:22:12 | GET detected
+01-04-15 09:22:16 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:22:16 | Retry attempt 1 of 3
+01-04-15 09:22:16 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:22:27 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:22:27 | Retry attempt 2 of 3
+01-04-15 09:22:27 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:22:39 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:22:39 | Retry attempt 3 of 3
+01-04-15 09:22:39 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:22:39 | Removing session value
+01-04-15 09:22:44 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:22:44 | Proxy complete
+01-04-15 09:22:44 | GET detected
+01-04-15 09:23:14 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:23:14 | Ok to proxy
+01-04-15 09:23:14 | Proxy complete
+01-04-15 09:23:14 | GET detected
+01-04-15 09:23:44 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:23:44 | Ok to proxy
+01-04-15 09:23:44 | Proxy complete
+ 
+01-04-15 09:25:46 | GET detected
+01-04-15 09:26:16 | Curl error or no response: Couldn't resolve host 'route.arcgis.com'
+01-04-15 09:26:16 | Ok to proxy
+01-04-15 09:26:16 | Proxy complete
+ 
+01-04-15 09:27:00 | GET detected
+01-04-15 09:27:01 | Authorization failed : dojo.io.script.jsonp_dojoIoScript2._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:27:01 | Retry attempt 1 of 3
+01-04-15 09:27:01 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:08 | Authorization failed : dojo.io.script.jsonp_dojoIoScript2._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:08 | Retry attempt 2 of 3
+01-04-15 09:28:08 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:10 | Authorization failed : dojo.io.script.jsonp_dojoIoScript2._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:10 | Retry attempt 3 of 3
+01-04-15 09:28:10 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:10 | Removing session value
+01-04-15 09:28:21 | Authorization failed : dojo.io.script.jsonp_dojoIoScript2._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:21 | Proxy complete
+ 
+01-04-15 09:28:51 | GET detected
+01-04-15 09:28:52 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:52 | Retry attempt 1 of 3
+01-04-15 09:28:52 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:53 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:53 | Retry attempt 2 of 3
+01-04-15 09:28:53 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:53 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:53 | Retry attempt 3 of 3
+01-04-15 09:28:53 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:28:53 | Removing session value
+01-04-15 09:28:53 | Authorization failed : dojo.io.script.jsonp_dojoIoScript1._jsonpCallback({"error":{"code":499,"message":"Token Required","details":[]}});
+01-04-15 09:28:53 | Proxy complete
+ 
+01-04-15 09:28:53 | GET detected
+01-04-15 09:28:54 | Ok to proxy
+01-04-15 09:28:54 | Proxy complete
+ 
+01-04-15 09:29:20 | GET detected
+01-04-15 09:29:22 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:22 | Retry attempt 1 of 3
+01-04-15 09:29:22 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:23 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:23 | Retry attempt 2 of 3
+01-04-15 09:29:23 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:23 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:23 | Retry attempt 3 of 3
+01-04-15 09:29:23 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:23 | Removing session value
+01-04-15 09:29:23 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:23 | Proxy complete
+ 
+01-04-15 09:29:32 | GET detected
+01-04-15 09:29:33 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:33 | Retry attempt 1 of 3
+01-04-15 09:29:33 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:34 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:34 | Retry attempt 2 of 3
+01-04-15 09:29:34 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:34 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:34 | Retry attempt 3 of 3
+01-04-15 09:29:34 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+01-04-15 09:29:34 | Removing session value
+01-04-15 09:29:35 | Authorization failed : {"error":{"code":499,"message":"Token Required","details":[]}}
+01-04-15 09:29:35 | Proxy complete

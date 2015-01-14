@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+    <title>Directions Widget</title>
+    <link rel="stylesheet" href="http://js.arcgis.com/3.12/dijit/themes/claro/claro.css">
+    <link rel="stylesheet" href="http://js.arcgis.com/3.12/esri/css/esri.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+    <style>
+      html, body, #map {
+        height:100%;
+        width:100%;
+        margin:0;
+        padding:0;
+      }
+      body {
+        background-color:#FFF;
+        overflow:hidden;
+        font-family:"Trebuchet MS";
+      }
+    </style>
+
+    <script src="http://js.arcgis.com/3.12/"></script>
+    <script>
+    jQuery.ajaxSetup({async:false});
+
+      require([
+        "esri/urlUtils", 
+        "esri/map", 
+        "esri/dijit/Directions", 
+        "dojo/parser", 
+        "esri/dijit/geoenrichment/InfographicsCarousel", 
+        "esri/tasks/geoenrichment/GeometryStudyArea",
+        "esri/geometry/Point",
+        "esri/geometry/Polygon", 
+        "esri/SpatialReference",
+        "esri/symbols/SimpleMarkerSymbol",
+        "esri/Color","esri/InfoTemplate","esri/graphic",
+        "esri/layers/FeatureLayer",
+        "esri/layers/GraphicsLayer"
+ 
+      ], function(urlUtils, Map, Directions,parser,InfographicsCarousel, GeometryStudyArea, Point,Polygon, SpatialReference,SimpleMarkerSymbol, Color, InfoTemplate, Graphic,FeatureLayer,GraphicsLayer)
+      {
+        parser.parse();
+        dojo.require("esri.map");
+        
+        //all requests to route.arcgis.com will proxy to the proxyUrl defined in this object.
+        /*
+urlUtils.addProxyRule({
+          urlPrefix: "route.arcgis.com",  
+          proxyUrl: "http://localhost:8888/PHP/proxy.php"
+        });
+        urlUtils.addProxyRule({
+          urlPrefix: "traffic.arcgis.com",  
+          proxyUrl: "http://localhost:8888/PHP/proxy.php"
+        });
+*/
+
+
+        var map = new Map("map", {
+          basemap: "streets",
+          center:[-115.18,36.11],
+          zoom: 10
+        });
+        
+        var checker = function(data) {
+	        var i = 0;
+	        for (i = 0; i < data.candidates.length; i++) {
+		        var placename = data.candidates[i].attributes.PlaceName;
+		        var placeaddr = data.candidates[i].attributes.Place_Addr
+		        var xpt = data.candidates[i].extent.xmax;
+		        var ypt = data.candidates[i].extent.ymax;
+		        var uniqueid = xpt + "+" + ypt;
+		        console.log(placename);
+		        console.log(placeaddr);
+		        console.log(uniqueid);
+		        console.log(typeof(xpt));
+		        var checkurl = "http://services.arcgis.com/uwEnXXyny5Y4WciV/arcgis/rest/services/pinpoint/FeatureServer/0/query?where=id=' "+ uniqueid + "' ";
+		        $.get(
+		            checkurl, 
+		            function(ret) {
+		            	console.log(checkurl);
+		            	var featurelayer = new FeatureLayer("http://services.arcgis.com/uwEnXXyny5Y4WciV/arcgis/rest/services/pinpoint/FeatureServer/0",{
+		            		outFields: ["*"]
+		            		});
+		            		var point = new Point(xpt, ypt, new SpatialReference({ wkid: 4326 }));
+		                if (ret.indexOf("No results found") > 0) {
+		                    
+		                    var sms = new SimpleMarkerSymbol().setStyle(SimpleMarkerSymbol.STYLE_SQUARE).setColor(new Color([255, 0, 0, 0.5]));
+		                    var attr = {
+		                        "id": uniqueid,
+		                        "name": placename,
+		                        "thumbup": 0,
+		                        "thumbdown": 0
+		                    };
+		                    var infoTemplate = new InfoTemplate("Rating for " + placename, "<button onclick='like(" + uniqueid + ")'> <button onclick='dislike(" + uniqueid + ")'> 0 vs 0");
+		                    var graphic = new Graphic(point, sms, attr, infoTemplate);
+		                    featurelayer.applyEdits([graphic], null, null);
+		                }else{
+			                var query = new esri.tasks.Query();
+			                query.returnGeometry = true;
+			                query.outFields = ["id","name","thumbup","thumbdown"];
+			                query.where = "id = '"+uniqueid+"'";
+			                featurelayer.queryFeatures(query, function(resp) {
+			                	for(var i = 0; i < resp.features.length; i++){
+			                		var id = resp.features[i].attributes.id;
+			                		var name = resp.features[i].attributes.name;
+			                		var up = resp.features[i].attributes.thumbup;
+			                		var dn = resp.features[i].attributes.thumbdown;
+				                	var sms = new SimpleMarkerSymbol().setStyle(SimpleMarkerSymbol.STYLE_SQUARE).setColor(new Color([255, 0, 0, 0.5]));
+				                	var attr = {
+					                	"id": id,
+					                	"name": name,
+					                	"thumbup": up,
+					                	"thumbdown": dn
+		                    };
+		                    var infoTemplate = new InfoTemplate("Rating for " + placename, "<button onclick='like(" + uniqueid + ")'> <button onclick='dislike(" + uniqueid + ")'> 0 vs 0");
+		                    var graphic = new Graphic(point, sms, attr, infoTemplate);
+		                    featurelayer.applyEdits(null, [graphic], null);
+
+			                	}
+			                	
+			                });
+		                }
+		                
+		                // Build Pop up.
+		                map.addLayer(featurelayer);
+		                
+		            }
+		        );
+		      }
+		   }
+    
+
+        var directions = new Directions({
+          map: map
+        },"dir");
+        directions.startup();
+                
+                
+        directions.on("directions-finish", function(evt){
+        	console.log("hello world", evt);
+        	var addresses = evt.result.routeResults[0].routeName
+        	var src = addresses.split('-')[0].trim();
+        	var dst = addresses.split('-')[1].trim();
+        	console.log(src);
+        	console.log(dst);
+        	var urls = "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine="+src+"&category=&outFields=location&forStorage=false&f=pjson"
+        	var urld = "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine="+dst+"&category=&outFields=location&forStorage=false&f=pjson"
+
+            var srcx = '';
+        	var srcy = '';
+        	var dstx = '';
+        	var dsty = '';        	
+        	$.get(
+			    urls,
+			    function(raw) {
+			    	var data = JSON.parse(raw);
+			    	srcx = data.candidates[0].location.x;
+			    	srcy = data.candidates[0].location.y;
+			    	console.log('s', srcx, srcy);
+			    	console.log('s', srcx, srcy,'d', dstx, dsty);
+
+			    }
+			);
+        	
+        	$.get(
+			    urld,
+			    function(raw) {
+			       var data = JSON.parse(raw);
+			       dstx = data.candidates[0].location.x;
+			       dsty = data.candidates[0].location.y;
+			       console.log('d', dstx, dsty);
+			       console.log('s', srcx, srcy,'d', dstx, dsty);
+
+			    }
+			);
+			console.log('s', srcx, srcy,'d', dstx, dsty);
+        	urls = "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?singleLine=&category=hotel&outFields=PlaceName,Place_Addr,City,Region&searchExtent="+srcx+","+srcy+","+dstx+","+dsty+"&f=pjson";
+        	console.log(urls);
+
+        	$.get(
+        		urls,
+        		function(raw) {
+	        		var data = JSON.parse(raw);
+	        		checker(data);
+	        	}
+			);
+		});
+	});
+
+      
+      
+    </script>
+  </head>
+  <body class="claro">
+    <div data-dojo-type="dijit/layout/BorderContainer" 
+         data-dojo-props="design:'headline', gutters:false" 
+         style="width:100%;height:100%;">
+      <div data-dojo-type="dijit/layout/ContentPane" 
+           data-dojo-props="region:'right'" 
+           style="width:250px;">
+        
+        <div id="dir"></div>
+      </div>
+      <div id="map" 
+           data-dojo-type="dijit/layout/ContentPane" 
+           data-dojo-props="region:'center'">
+      </div>
+    </div>
+  </body>
+</html>
